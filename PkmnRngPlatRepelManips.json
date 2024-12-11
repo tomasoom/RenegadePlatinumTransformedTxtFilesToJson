@@ -1,0 +1,166 @@
+{
+    "1": [
+        {
+            "area": "Route 201",
+            "text": "At level 5\n33% Starly\n33% Bidoof\n16% Nidoran M\n16% Nidoran F"
+        },
+        {
+            "area": "Verity Lakefront",
+            "text": "At level 5\n22% Azurill\n22% Starly\n22% Surskit\n12% Wingull\n22% Psyduck"
+        },
+        {
+            "area": "Route 202",
+            "text": "At level 6\n50% Poochyena\n50% Growlithe"
+        },
+        {
+            "area": "Route 203",
+            "text": "At level 8\n33% Starly\n33% Spearow\n33% Abra"
+        },
+        {
+            "area": "Route 204 South",
+            "text": "At level 7, also works at level 10 in the north section\n50% Ralts\n50% Bellsprout"
+        },
+        {
+            "area": "Route 207",
+            "text": "At level 10\n20% Ponyta\n40% Machop\n40% Rhyhorn"
+        },
+        {
+            "area": "Ravaged Path",
+            "text": "At level 7/8\n50% Zubat\n50% Geodude"
+        },
+        {
+            "area": "Oreburgh Gate",
+            "text": "At level 8, works at level 9 in the basement floor\n20% Riolu\n20% Diglett\n30% Zubat\n30% Geodude\n\nAt level 9\n45% Geodude\n45% Zubat\n5% Diglett"
+        },
+        {
+            "area": "Oreburgh Mine",
+            "text": "Works at level 11 in the basement floor\n25% Onix\n25% Whismur\n25% Zubat\n25% Trapinch\n\nAt level 10\n29% Onix\n29% Whismur\n29% Zubat\n14% Geodude"
+        }
+    ],
+    "2": [
+        {
+            "area": "Route 205 South",
+            "text": "At level 13\n8% Pachirisu\n20% Mareep\n36% Hoppip\n36% Shellos"
+        },
+        {
+            "area": "Route 205 North",
+            "text": "At level 17\n50% Illumise\n50% Volbeat"
+        },
+        {
+            "area": "Route 211 West",
+            "text": "At level 18\n50% Swablu\n50% Meditite"
+        },
+        {
+            "area": "Route 211 East",
+            "text": "At level 19\n50% Machop\n50% Meditite"
+        },
+        {
+            "area": "Route 216",
+            "text": "At level 20\n100% Sneasel"
+        },
+        {
+            "area": "Eterna Forest",
+            "text": "At level 16, Morning/Day\n83% Paras\n8% Buneary\n8% Taillow\n\nAt level 16, Night\n83% Misdreavus\n8% Buneary\n8% Taillow"
+        },
+        {
+            "area": "Valley Windworks",
+            "text": "At level 13\n71% Drifloon\n29% Pachirisu"
+        }
+    ],
+    "3": [
+        {
+            "area": "Route 206",
+            "text": "At level 22\n100% Gligar"
+        },
+        {
+            "area": "Route 208",
+            "text": "At level 24\n66% Bibarel\n16% Seviper\n16% Zangoose"
+        },
+        {
+            "area": "Wayward Cave",
+            "text": "At level 22\n45% Onix\n23% Sableye\n23% Mawile\n9% Gible"
+        }
+    ],
+    "4": [
+        {
+            "area": "Route 212 North",
+            "text": "At level 26\n20% Staravia\n40% Gloom\n40% Weepinbell\n\nAt level 25\nDoes not change encounter tables besides Marill"
+        },
+        {
+            "area": "Route 209",
+            "text": "At level 26\n33% Chansey\n66% Staravia"
+        },
+        {
+            "area": "Route 210 South",
+            "text": "At level 30\n29% Scyther\n71% Rapidash"
+        },
+        {
+            "area": "Route 215",
+            "text": "At level 30\n14% Kadabra\n14% Lickitung\n72% Hypno"
+        },
+        {
+            "area": "Lost Tower, First Floors",
+            "text": "At level 29\n50% Banette\n50% Dusclops\n\nAt level 28\n25% Golbat\n25% Haunter\n25% Banette\n25% Dusclops"
+        },
+        {
+            "area": "Route 214",
+            "text": "At level 31\n100% Graveler\n\nAt level 29\n66% Graveler\n33% Rhyhorn"
+        },
+        {
+            "area": "Maniac Tunnel",
+            "text": "At level 29\nDecreases odds of encountering Diglett and Whismur\n100% Dugtrio at level 32"
+        },
+        {
+            "area": "Trophy Garden",
+            "text": "At level 26\n80% Pikachu\n20% Eevee\n\nAt level 25\n50% Pikachu\n25% Eevee\n25% Porygon"
+        }
+    ],
+    "5": [
+        {
+            "area": "Route 213",
+            "text": "At level 34\n29% Swellow\n71% Gastrodon"
+        },
+        {
+            "area": "Route 212 South",
+            "text": "At level 36\n33% Weepinbell\n33% Lombre\n16% Toxicroak\n16% Arbok"
+        },
+        {
+            "area": "Valor Lakefront",
+            "text": "At level 33\n45% Kricketune\n45% Girafarig\n5% Nidorino\n5% Nidorina"
+        },
+        {
+            "area": "Great Marsh Skorupi Area 5/6",
+            "text": "At level 36\n50% Drapion\n25% Breloom\n25% Swalot"
+        }
+    ],
+    "6": [
+        {
+            "area": "Route 210 North",
+            "text": "At level 37\n28% Fearow\n14% Seviper\n14% Zangoose\n14% Drifblim\n14% Skarmory\n14% Shelgon"
+        },
+        {
+            "area": "Route 221",
+            "text": "At level 39\n30% Sudowoodo\n30% Skuntank\n15% Girafarig\n15% Dodrio\n7.5% Farfetch'd\n1.5% Nidorino\n1.5% Nidorina"
+        },
+        {
+            "area": "Fuego Ironworks",
+            "text": "At level 40\n66% Magneton\n17% Fortress\n17% Manectric"
+        },
+        {
+            "area": "Iron Island",
+            "text": "At level 43, works at level 45 in Basement 2 and 3\n50% Steelix\n50% Rhyhorn"
+        }
+    ],
+    "7": [
+        {
+            "area": "Snowpoint Temple",
+            "text": "At level 50\n66% Steelix\n33% Weavile\n\nAt level 49\n40% Steelix\n20% Golbat\n20% Weavile\n20% Froslass"
+        }
+    ],
+    "8": [
+        {
+            "area": "Sendoff Springs",
+            "text": "At level 54\nLowers chance for Chimecho and Staravia"
+        }
+    ]
+}

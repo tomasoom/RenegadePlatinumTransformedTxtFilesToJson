@@ -1,0 +1,73 @@
+{
+    "General Changes": "Each of the four trades has been modified to accept different Pokémon.\nThe trade that was previously in Snowpoint City has been moved to Floaroma Town.\nThe mechanic that causes traded Pokémon to not listen to you without certain badges has been removed. Traded Pokémon will now always listen to your commands.",
+    "Trades": [
+        {
+            "Oreburgh City": {
+                "Description": "You will be asked for a Ponyta in exchange for a Spheal.",
+                "Pokemon": "Spheal",
+                "Nickname": "Gaia",
+                "Item": "Never-Melt Ice",
+                "IVs": {
+                    "HP": 31,
+                    "Atk": 31,
+                    "Def": 15,
+                    "SAtk": 31,
+                    "SDef": 15,
+                    "Spd": 15
+                },
+                "Nature": "Quiet"
+            }
+        },
+        {
+            "Floaroma Town": {
+                "Description": "You will be asked for a Cherubi in exchange for a Skorupi.",
+                "Pokemon": "Skorupi",
+                "Nickname": "Spike",
+                "Item": "Poison Barb",
+                "IVs": {
+                    "HP": 15,
+                    "Atk": 31,
+                    "Def": 31,
+                    "SAtk": 15,
+                    "SDef": 15,
+                    "Spd": 31
+                },
+                "Nature": "Jolly"
+            }
+        },
+        {
+            "Eterna City": {
+                "Description": "You will be asked for a Snorunt in exchange for a Chatot.",
+                "Pokemon": "Chatot",
+                "Nickname": "Macaw",
+                "Item": "Sharp Beak",
+                "IVs": {
+                    "HP": 15,
+                    "Atk": 15,
+                    "Def": 15,
+                    "SAtk": 31,
+                    "SDef": 31,
+                    "Spd": 31
+                },
+                "Nature": "Modest"
+            }
+        },
+        {
+            "Route 226": {
+                "Description": "You will be asked for a Magikarp in exchange for a (German) Magikarp.",
+                "Pokemon": "Magikarp",
+                "Nickname": "Foppa",
+                "Item": "Starf Berry",
+                "IVs": {
+                    "HP": 31,
+                    "Atk": 31,
+                    "Def": 31,
+                    "SAtk": 31,
+                    "SDef": 31,
+                    "Spd": 31
+                },
+                "Nature": "Adamant"
+            }
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "General Changes": [
+        "The numbers of all moves (power, accuracy, PP, effect chance, priority) are updated to match Ultra Sun and Ultra Moon.",
+        "Curse is now a Ghost-type move as in Ultra Sun and Ultra Moon.",
+        "Charm, Moonlight and Sweet Kiss are now Fairy-type as in Ultra Sun and Ultra Moon."
+    ],
+    "Move Replacements": {
+        "description": "The following moves have been replaced with moves from later generations.\nMoves under the \"Old Move\" column are now unavailable.\n",
+        "Move Replacements": [
+            {
+                "Old Move": "Barrage",
+                "New Move": "Draining Kiss"
+            },
+            {
+                "Old Move": "Brine",
+                "New Move": "Scald"
+            },
+            {
+                "Old Move": "Constrict",
+                "New Move": "Icicle Crash"
+            },
+            {
+                "Old Move": "Horn Drill",
+                "New Move": "Drill Run"
+            },
+            {
+                "Old Move": "Lunar Dance",
+                "New Move": "Moonblast"
+            },
+            {
+                "Old Move": "Luster Purge",
+                "New Move": "Dazzling Gleam"
+            },
+            {
+                "Old Move": "Mist Ball",
+                "New Move": "Disarming Voice"
+            },
+            {
+                "Old Move": "Sand Tomb",
+                "New Move": "Bulldoze"
+            },
+            {
+                "Old Move": "Submission",
+                "New Move": "Play Rough"
+            },
+            {
+                "Old Move": "Twister",
+                "New Move": "Hurricane"
+            },
+            {
+                "Old Move": "Volt Tackle",
+                "New Move": "Wild Charge"
+            }
+        ]
+    },
+    "Move Modifications": {
+        "Aurora Beam": {
+            "Power": {
+                "old": "65",
+                "new": "75"
+            },
+            "PP": {
+                "old": "20",
+                "new": "15"
+            }
+        },
+        "Blaze Kick": {
+            "Power": {
+                "old": "85",
+                "new": "90"
+            },
+            "Accuracy": {
+                "old": "90",
+                "new": "100"
+            }
+        },
+        "Bubble Beam": {
+            "Power": {
+                "old": "65",
+                "new": "75"
+            },
+            "PP": {
+                "old": "20",
+                "new": "15"
+            }
+        },
+        "Chatter": {
+            "Power": {
+                "old": "65",
+                "new": "90"
+            },
+            "PP": {
+                "old": "20",
+                "new": "15"
+            }
+        },
+        "Cross Poison": {
+            "Power": {
+                "old": "70",
+                "new": "90"
+            },
+            "PP": {
+                "old": "20",
+                "new": "15"
+            }
+        },
+        "Cut": {
+            "Power": {
+                "old": "50",
+                "new": "60"
+            },
+            "Accuracy": {
+                "old": "95%",
+                "new": "100%"
+            },
+            "PP": {
+                "old": "30",
+                "new": "25"
+            },
+            "Type": {
+                "old": "Normal",
+                "new": "Grass"
+            },
+            "Effect": {
+                "old": "No Effect",
+                "new": "High Critical Ratio"
+            }
+        },
+        "Disarming Voice": {
+            "Power": {
+                "old": "40",
+                "new": "50"
+            }
+        },
+        "Draining Kiss": {
+            "Power": {
+                "old": "50",
+                "new": "75"
+            },
+            "Recovery": {
+                "old": "75%",
+                "new": "50% (Engine limitation)"
+            }
+        },
+        "Flame Wheel": {
+            "Power": {
+                "old": "60",
+                "new": "75"
+            },
+            "PP": {
+                "old": "25",
+                "new": "15"
+            }
+        },
+        "Fly": {
+            "Power": {
+                "old": "90",
+                "new": "100"
+            },
+            "Accuracy": {
+                "old": "95%",
+                "new": "100%"
+            }
+        },
+        "Hurricane": {
+            "Effect": {
+                "old": "Confusion (30%)",
+                "new": "No Effect (Engine limitation)"
+            }
+        },
+        "Needle Arm": {
+            "Power": {
+                "old": "60",
+                "new": "90"
+            }
+        },
+        "Poison Fang": {
+            "Power": {
+                "old": "50",
+                "new": "65"
+            },
+            "Accuracy": {
+                "old": "",
+                "new": ""
+            }
+        },
+        "Poison Tail": {
+            "Power": {
+                "old": "50",
+                "new": "90"
+            },
+            "PP": {
+                "old": "25",
+                "new": "15"
+            }
+        },
+        "Rock Climb": {
+            "Power": {
+                "old": "90",
+                "new": "80"
+            },
+            "Accuracy": {
+                "old": "85%",
+                "new": "95%"
+            },
+            "PP": {
+                "old": "20",
+                "new": "10"
+            },
+            "Type": {
+                "old": "Normal",
+                "new": "Rock"
+            }
+        },
+        "Rock Smash": {
+            "Power": {
+                "old": "40",
+                "new": "60"
+            }
+        },
+        "Scald": {
+            "Effect": {
+                "old": "Burn (30%) + Self thaw + Thaw enemy frozen Pokémon",
+                "new": "Burn (30%) + Self thaw (Engine limitation)"
+            }
+        },
+        "Shadow Claw": {
+            "Power": {
+                "old": "65",
+                "new": "80"
+            },
+            "PP": {
+                "old": "15",
+                "new": "15"
+            }
+        },
+        "Shadow Punch": {
+            "Power": {
+                "old": "60",
+                "new": "80"
+            },
+            "PP": {
+                "old": "20",
+                "new": "15"
+            }
+        },
+        "Sludge": {
+            "Power": {
+                "old": "65",
+                "new": "75"
+            },
+            "PP": {
+                "old": "20",
+                "new": "15"
+            }
+        },
+        "Strength:": {
+            "Power": {
+                "old": "80",
+                "new": "100"
+            },
+            "Effect": {
+                "old": "No Effect",
+                "new": "May Raise Attack (10%)"
+            }
+        },
+        "Wild Charge": {
+            "Power": {
+                "old": "90",
+                "new": "100"
+            }
+        }
+    }
+}

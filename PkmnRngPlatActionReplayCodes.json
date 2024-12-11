@@ -1,0 +1,11 @@
+{
+    "General": "These are some Action Replay codes which might be helpful to make the game play a bit faster.\nPlease note that the Game ID is different to the original Platinum. You can find this value out with the R4 Cheat Code Editor program if you need it.\nThese can also be applied to the ROM as an additional patch which is supplied with the download.\n",
+    "Instant Text": {
+        "Description": "This code will make all text appear instantly instead of a gradual scroll.\nPlease note that it will stop you hearing certain fanfares (e.g. the sound effect after an evolution).",
+        "Code": "120023FC 00002100\n1201D97E 00001C0C\n1201D980 00004818\n1201D9AE 0000BD10\n0201D9B0 E7E53C2D\n1201D9BE 0000D0DF\n1201D9CA 0000E7F1"
+    },
+    "Gauge Animation Cut": {
+        "Description": "This code will make it so HP bars drop instantly instead of gradually.\nPlease note that it won't have any effect until the HP bars are over a certain value, so the effect won't be immediately apparent early on.",
+        "Code": "12268178 00001C20\n12268186 00001C20\n12085734 00001C21"
+    }
+}

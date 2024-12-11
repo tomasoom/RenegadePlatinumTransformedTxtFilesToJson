@@ -1,0 +1,208 @@
+{
+    "General Changes": "Fairy-type is now in the game, replacing what was previously the ??? type.\nAll Pokémon that are Fairy-type in Gen VI onwards are also Fairy-type in Renegade Platinum. This is true for the Complete and the Classic versions.\nRotom's five alternate forms take the secondary type that they have in the Gen V games and onward (i.e. they are not Ghost-type like the normal Platinum).\nFor other type changes, they are only present in the Complete version of the hack. If you don't like these changes, use the Classic version patch instead.",
+    "Pokémon Type Changes (Complete version only)": [
+        {
+            "Number": "006",
+            "Pokémon": "Charizard",
+            "Old Type": "Fire / Flying",
+            "New Type": "Fire / Dragon",
+            "Justification": "Inherited from Mega form; draconic appearance."
+        },
+        {
+            "Number": "038",
+            "Pokémon": "Ninetales",
+            "Old Type": "Fire",
+            "New Type": "Fire / Fairy",
+            "Justification": "Inherited from Alola form; generally quite 'mystical' in appearance."
+        },
+        {
+            "Number": "055",
+            "Pokémon": "Golduck",
+            "Old Type": "Water",
+            "New Type": "Water / Psychic",
+            "Justification": "Canonically uses Psychic-type moves; commonly mistaken as a Psychic type."
+        },
+        {
+            "Number": "083",
+            "Pokémon": "Farfetch'd",
+            "Old Type": "Normal / Flying",
+            "New Type": "Fighting / Flying",
+            "Justification": "Able to attack using leek as a weapon; gives it a niche over Normal/Flying Pokémon."
+        },
+        {
+            "Number": "154",
+            "Pokémon": "Meganium",
+            "Old Type": "Grass",
+            "New Type": "Grass / Fairy",
+            "Justification": "Heavy on the flower aesthetic; heavily voted for by community."
+        },
+        {
+            "Number": "160",
+            "Pokémon": "Feraligatr",
+            "Old Type": "Water",
+            "New Type": "Water / Dark",
+            "Justification": "Looks intimidating; Pokédex claims it to be savage; voted for by the community."
+        },
+        {
+            "Number": "164",
+            "Pokémon": "Noctowl",
+            "Old Type": "Normal / Flying",
+            "New Type": "Psychic / Flying",
+            "Justification": "Canonically uses Psychic-type moves; commonly thought that it should be a Psychic type."
+        },
+        {
+            "Number": "181",
+            "Pokémon": "Ampharos",
+            "Old Type": "Electric",
+            "New Type": "Electric / Dragon",
+            "Justification": "Inherited from Mega form; Japanese name means \"Electric dragon\"; was Dragon in early G/S development."
+        },
+        {
+            "Number": "200",
+            "Pokémon": "Misdreavus",
+            "Old Type": "Ghost",
+            "New Type": "Ghost / Fairy",
+            "Justification": "Design inspiration from mythological creatures; mischevious nature; evolved form has a witch aesthetic."
+        },
+        {
+            "Number": "254",
+            "Pokémon": "Sceptile",
+            "Old Type": "Grass",
+            "New Type": "Grass / Dragon",
+            "Justification": "Inherited from Mega form; commonly requested."
+        },
+        {
+            "Number": "284",
+            "Pokémon": "Masquerain",
+            "Old Type": "Bug / Flying",
+            "New Type": "Bug / Water",
+            "Justification": "Pre-evolution has Water type; Bug/Water is a fairly unique type combo; still looks a lot like Surskit."
+        },
+        {
+            "Number": "313",
+            "Pokémon": "Volbeat",
+            "Old Type": "Bug",
+            "New Type": "Bug / Electric",
+            "Justification": "Learns a lot of Electric attacks; has illumination powers; design looks fitting for Electric."
+        },
+        {
+            "Number": "314",
+            "Pokémon": "Illumise",
+            "Old Type": "Bug",
+            "New Type": "Bug / Fairy",
+            "Justification": "Firefly lights look similar to how other games display the Fairy-type; counterpart to Volbeat."
+        },
+        {
+            "Number": "328",
+            "Pokémon": "Trapinch",
+            "Old Type": "Ground",
+            "New Type": "Bug / Ground",
+            "Justification": "Based on an insect; is in the Bug Egg group; evolved forms also look very Bug-like."
+        },
+        {
+            "Number": "329",
+            "Pokémon": "Vibrava",
+            "Old Type": "Ground / Dragon",
+            "New Type": "Bug / Dragon",
+            "Justification": "Based on an insect; in Bug Egg group; aesthetic is very Bug-like; learns Bug-type moves; unique type combo."
+        },
+        {
+            "Number": "330",
+            "Pokémon": "Flygon",
+            "Old Type": "Ground / Dragon",
+            "New Type": "Bug / Dragon",
+            "Justification": "Based on an insect; in Bug Egg group; has Bug-like features; learns Bug-type moves; unique type combo."
+        },
+        {
+            "Number": "333",
+            "Pokémon": "Swablu",
+            "Old Type": "Normal / Flying",
+            "New Type": "Fairy / Flying",
+            "Justification": "Inherited from Altaria's Mega form; fluffy cloud appearance fits with Fairy."
+        },
+        {
+            "Number": "334",
+            "Pokémon": "Altaria",
+            "Old Type": "Dragon / Flying",
+            "New Type": "Dragon / Fairy",
+            "Justification": "Inherited from Mega form; fluffy cloud appearance fits with Fairy; common request by community."
+        },
+        {
+            "Number": "336",
+            "Pokémon": "Seviper",
+            "Old Type": "Poison",
+            "New Type": "Poison / Dark",
+            "Justification": "Evil and intimidating looking; gives it more of a niche; common request by community."
+        },
+        {
+            "Number": "350",
+            "Pokémon": "Milotic",
+            "Old Type": "Water",
+            "New Type": "Water / Fairy",
+            "Justification": "Elegant aesthetic and mythological mermaid inspiration fit with Fairy-type; heavily voted for by community."
+        },
+        {
+            "Number": "362",
+            "Pokémon": "Glalie",
+            "Old Type": "Ice",
+            "New Type": "Ice / Rock",
+            "Justification": "Pokédex entries state Glalie has a body made of rock with ice on top; unique type combo."
+        },
+        {
+            "Number": "370",
+            "Pokémon": "Luvdisc",
+            "Old Type": "Water",
+            "New Type": "Water / Fairy",
+            "Justification": "Heart and love aesthetic fits with Fairy-type; makes it just a little more noticeable."
+        },
+        {
+            "Number": "405",
+            "Pokémon": "Luxray",
+            "Old Type": "Electric",
+            "New Type": "Electric / Dark",
+            "Justification": "Intimidating look and general dark coloured aesthetic fit with Dark-type; unique type combo."
+        },
+        {
+            "Number": "428",
+            "Pokémon": "Lopunny",
+            "Old Type": "Normal",
+            "New Type": "Normal / Fighting",
+            "Justification": "Inherited from Mega form; has a humanoid appearance and learns lots of Fighting-type moves naturally."
+        },
+        {
+            "Number": "429",
+            "Pokémon": "Mismagius",
+            "Old Type": "Ghost",
+            "New Type": "Ghost / Fairy",
+            "Justification": "Inspired by witches and mages from fairy tales; unique type combo; gives it a specific niche."
+        },
+        {
+            "Number": "466",
+            "Pokémon": "Electivire",
+            "Old Type": "Electric",
+            "New Type": "Electric / Fighting",
+            "Justification": "Stats are physically focused; learns lots of Fighting moves naturally; Pokédex states it uses fists."
+        },
+        {
+            "Number": "480",
+            "Pokémon": "Uxie",
+            "Old Type": "Psychic",
+            "New Type": "Psychic / Fairy",
+            "Justification": "Likely inspired by a pixie, a mythlogical creature."
+        },
+        {
+            "Number": "481",
+            "Pokémon": "Mesprit",
+            "Old Type": "Psychic",
+            "New Type": "Psychic / Fairy",
+            "Justification": "Likely inspired by a sprite, a mythological creature."
+        },
+        {
+            "Number": "482",
+            "Pokémon": "Azelf",
+            "Old Type": "Psychic",
+            "New Type": "Psychic / Fairy",
+            "Justification": "Likely inspired by a pixie (possibly a gnome..?), a mythlogical creature."
+        }
+    ]
+}

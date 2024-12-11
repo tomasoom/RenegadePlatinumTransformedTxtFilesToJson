@@ -1,0 +1,2029 @@
+{
+    "Modified Items": {
+        "Use": {
+            "Explanation": "The following items now have a \"Use\" option like evolutionary stones.",
+            "Items": [
+                "Deep Sea Scale",
+                "Deep Sea Tooth",
+                "Dragon Scale",
+                "Dubious Disc",
+                "Electirizer",
+                "King's Rock",
+                "Magmarizer",
+                "Metal Coat",
+                "Protector",
+                "Reaper Cloth",
+                "Up-Grade"
+            ]
+        },
+        "Cost": {
+            "Explanation": "The following items have had adjustments to their costs.",
+            "Poké Ball": {
+                "old_price": "$200",
+                "new_price": "$50"
+            },
+            "Great Ball": {
+                "old_price": "$600",
+                "new_price": "$150"
+            },
+            "Ultra Ball": {
+                "old_price": "$1200",
+                "new_price": "$300"
+            }
+        },
+        "TMs": {
+            "Explanation": "The following items now cost zero and are thus unsellable.",
+            "Items": "All TMs"
+        }
+    },
+    "Modified TMs": {
+        "TMs with chanced moves": {
+            "Explanation": "The following TMs have had their moves changed (compatibility matches Ultra Sun and Ultra Moon plus extras as listed in Pokémon Changes):",
+            "TM_List": [
+                "TM55: Brine >> Scald",
+                "TM57: Charge Beam >> Wild Charge",
+                "TM62: Silver Wind >> Bug Buzz",
+                "TM83: Natural Gift >> Hyper Voice",
+                "TM85: Dream Eater >> Dazzling Gleam",
+                "TM88: Pluck >> Hurricane"
+            ],
+            "TM55": {
+                "old_move": "Brine",
+                "new_move": "Scald"
+            },
+            "TM57": {
+                "old_move": "Charge Beam",
+                "new_move": "Wild Charge"
+            },
+            "TM62": {
+                "old_move": "Silver Wind",
+                "new_move": "Bug Buzz"
+            },
+            "TM83": {
+                "old_move": "Natural Gift",
+                "new_move": "Hyper Voice"
+            },
+            "TM85": {
+                "old_move": "Dream Eater",
+                "new_move": "Dazzling Gleam"
+            },
+            "TM88": {
+                "old_move": "Pluck",
+                "new_move": "Hurricane"
+            }
+        },
+        "Additional Changes": {
+            "Explanation": "Additionally, all TMs will now have a quantity of 99 when obtained.",
+            "Additional points": [
+                "No TMs are available within Poké Marts.",
+                "An NPC at the Pokémon League can reset your inventory to have 99 of all TMs."
+            ]
+        }
+    },
+    "Item Locations": [
+        {
+            "Item": "Adamant Orb",
+            "Locations": "Mt. Coronet"
+        },
+        {
+            "Item": "Amulet Coin",
+            "Locations": "Amity Square"
+        },
+        {
+            "Item": "Big Root",
+            "Locations": "Route 214"
+        },
+        {
+            "Item": "Black Belt",
+            "Locations": "Route 221"
+        },
+        {
+            "Item": "Black Flute",
+            "Locations": "Mt. Coronet"
+        },
+        {
+            "Item": "Black Glasses",
+            "Locations": "Route 215, Celestic Town"
+        },
+        {
+            "Item": "Black Sludge",
+            "Locations": "Great Marsh"
+        },
+        {
+            "Item": "Blue Flute",
+            "Locations": "Route 216"
+        },
+        {
+            "Item": "Blue Scarf",
+            "Locations": "Pastoria City"
+        },
+        {
+            "Item": "Bright Powder",
+            "Locations": "Mt. Coronet"
+        },
+        {
+            "Item": "Charcoal",
+            "Locations": "Route 227, attached to Charmander, Cyndaquil and Torchic gifts"
+        },
+        {
+            "Item": "Choice Band",
+            "Locations": "Route 214"
+        },
+        {
+            "Item": "Choice Scarf",
+            "Locations": "Solaceon Ruins"
+        },
+        {
+            "Item": "Choice Specs",
+            "Locations": "Celestic Town (from NPC at Morning)"
+        },
+        {
+            "Item": "Cleanse Tag",
+            "Locations": "Lost Tower"
+        },
+        {
+            "Item": "Damp Rock",
+            "Locations": "Route 220"
+        },
+        {
+            "Item": "Dawn Stone",
+            "Locations": "Eterna City (Gift from Bike Shop Owner), Mt. Coronet, Route 212 (South) (Hidden), Route 225, Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Deep Sea Scale",
+            "Locations": "Floaroma Town, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Deep Sea Tooth",
+            "Locations": "Floaroma Town, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Destiny Knot",
+            "Locations": "Route 205, Route 224"
+        },
+        {
+            "Item": "Dragon Fang",
+            "Locations": "Celestic Town"
+        },
+        {
+            "Item": "Dragon Scale",
+            "Locations": "Veilstone City (NPC in Pokémon Center), Victory Road, Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Dubious Disc",
+            "Locations": "Veilstone City, Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Dusk Stone",
+            "Locations": "Wayward Cave (Hidden), Wayward Cave, Galactic Warehouse, Victory Road, Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Electirizer",
+            "Locations": "Hotel Grand Lake (Route 213), Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Everstone",
+            "Locations": "Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Exp. Share",
+            "Locations": "Route 203"
+        },
+        {
+            "Item": "Expert Belt",
+            "Locations": "Ravaged Path, Veilstone Game Corner Prize"
+        },
+        {
+            "Item": "Fire Stone",
+            "Locations": "Oreburgh Mine, Route 211 (East), Fuego Ironworks, Solaceon Ruins (Hidden), Stark Mountain (Hidden), Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Flame Orb",
+            "Locations": "Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Focus Band",
+            "Locations": "Wayward Cave"
+        },
+        {
+            "Item": "Focus Sash",
+            "Locations": "Route 221, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Full Incense",
+            "Locations": "Veilstone City"
+        },
+        {
+            "Item": "Green Scarf",
+            "Locations": "Pastoria City"
+        },
+        {
+            "Item": "Grip Claw",
+            "Locations": "Wayward Cave"
+        },
+        {
+            "Item": "Griseous Orb",
+            "Locations": "Distortion World"
+        },
+        {
+            "Item": "Hard Stone",
+            "Locations": "Route 207"
+        },
+        {
+            "Item": "Heat Rock",
+            "Locations": "Route 214"
+        },
+        {
+            "Item": "Ice Stone",
+            "Locations": "Oreburgh Mine, Route 216, Route 217 (Ice Rock), Snowpoint Temple, Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Icy Rock",
+            "Locations": "Route 217"
+        },
+        {
+            "Item": "Iron Ball",
+            "Locations": "Iron Island"
+        },
+        {
+            "Item": "King's Rock",
+            "Locations": "Wayward Cave, Celestic Town (Hidden), Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Lagging Tail",
+            "Locations": "Route 226"
+        },
+        {
+            "Item": "Lax Incense",
+            "Locations": "Route 225"
+        },
+        {
+            "Item": "Leaf Stone",
+            "Locations": "Oreburgh Mine, Eterna Forest (Moss Rock), Floaroma Meadow, Great Marsh (Hidden), Route 225 (Hidden), Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Leftovers",
+            "Locations": "Victory Road, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Life Orb",
+            "Locations": "Route 210 (South), Stark Mountain, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Light Ball",
+            "Locations": "Floaroma Town"
+        },
+        {
+            "Item": "Light Clay",
+            "Locations": "Oreburgh Gate, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Luck Incense",
+            "Locations": "Ravaged Path"
+        },
+        {
+            "Item": "Lucky Egg",
+            "Locations": "Pokémon Mansion"
+        },
+        {
+            "Item": "Lucky Punch",
+            "Locations": "Floaroma Town"
+        },
+        {
+            "Item": "Lustrous Orb",
+            "Locations": "Mt. Coronet"
+        },
+        {
+            "Item": "Macho Brace",
+            "Locations": "Pastoria City"
+        },
+        {
+            "Item": "Magmarizer",
+            "Locations": "Hotel Grand Lake (Route 213), Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Magnet",
+            "Locations": "Valley Windworks"
+        },
+        {
+            "Item": "Mental Herb",
+            "Locations": "Route 216, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Metal Coat",
+            "Locations": "Route 207, Iron Island, Veilstone Game Corner Prize (Buyable), Sunyshore City"
+        },
+        {
+            "Item": "Metal Powder",
+            "Locations": "Floaroma Town"
+        },
+        {
+            "Item": "Metronome",
+            "Locations": "Amity Square, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Miracle Seed",
+            "Locations": "Route 204 (North), Floaroma Meadow, attached to Bulbasaur, Chikorita and Treecko gifts"
+        },
+        {
+            "Item": "Moon Stone",
+            "Locations": "Oreburgh Mine, Mt. Coronet (Route 211 entrance), Eterna City (Hidden), Mt. Coronet (Hidden), Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Muscle Band",
+            "Locations": "Oreburgh Mine, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Mystic Water",
+            "Locations": "Pastoria City, attached to Squirtle, Totodile and Mudkip gifts"
+        },
+        {
+            "Item": "Never-Melt Ice",
+            "Locations": "Snowpoint Temple, Trade for Spheal in Oreburgh"
+        },
+        {
+            "Item": "Odd Incense",
+            "Locations": "Solaceon Ruins"
+        },
+        {
+            "Item": "Oval Stone",
+            "Locations": "Oreburgh City, Lost Tower, Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Pink Scarf",
+            "Locations": "Pastoria City"
+        },
+        {
+            "Item": "Poison Barb",
+            "Locations": "Route 206, Trade for Skorupi in Floaroma"
+        },
+        {
+            "Item": "Power Anklet",
+            "Locations": "Solaceon Town"
+        },
+        {
+            "Item": "Power Band",
+            "Locations": "Solaceon Town"
+        },
+        {
+            "Item": "Power Belt",
+            "Locations": "Solaceon Town"
+        },
+        {
+            "Item": "Power Bracer",
+            "Locations": "Solaceon Town"
+        },
+        {
+            "Item": "Power Herb",
+            "Locations": "Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Power Lens",
+            "Locations": "Solaceon Town"
+        },
+        {
+            "Item": "Power Weight",
+            "Locations": "Solaceon Town"
+        },
+        {
+            "Item": "Prism Scale",
+            "Locations": "Mt. Coronet, Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Protector",
+            "Locations": "Iron Island, Route 228, Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Pure Incense",
+            "Locations": "Route 221"
+        },
+        {
+            "Item": "Quick Claw",
+            "Locations": "Jubilife City"
+        },
+        {
+            "Item": "Quick Powder",
+            "Locations": "Floaroma Town"
+        },
+        {
+            "Item": "Razor Claw",
+            "Locations": "Route 215, Veilstone Galactic HQ, Route 224, Victory Road, Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Razor Fang",
+            "Locations": "Route 215, Route 214 (Hidden), Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Reaper Cloth",
+            "Locations": "Lost Tower, Acuity Lakefront, Route 229, Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Red Flute",
+            "Locations": "Route 211 (East)"
+        },
+        {
+            "Item": "Red Scarf",
+            "Locations": "Pastoria City"
+        },
+        {
+            "Item": "Rock Incense",
+            "Locations": "Fuego Ironworks"
+        },
+        {
+            "Item": "Rose Incense",
+            "Locations": "Route 212"
+        },
+        {
+            "Item": "Scope Lens",
+            "Locations": "Jubilife City, Fight Area"
+        },
+        {
+            "Item": "Sea Incense",
+            "Locations": "Route 204"
+        },
+        {
+            "Item": "Sharp Beak",
+            "Locations": "Trade for Chatot in Eterna, Valor Lakefront"
+        },
+        {
+            "Item": "Shed Shell",
+            "Locations": "Great Marsh, Route 228"
+        },
+        {
+            "Item": "Shell Bell",
+            "Locations": "Hearthome City"
+        },
+        {
+            "Item": "Shiny Stone",
+            "Locations": "Hearthome City, Iron Island, Route 210 (North) (Hidden), Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Silk Scarf",
+            "Locations": "Route 203"
+        },
+        {
+            "Item": "Silver Powder",
+            "Locations": "Eterna Forest"
+        },
+        {
+            "Item": "Smoke Ball",
+            "Locations": "Route 210"
+        },
+        {
+            "Item": "Smooth Rock",
+            "Locations": "Iron Island"
+        },
+        {
+            "Item": "Soft Sand",
+            "Locations": "Mt. Coronet"
+        },
+        {
+            "Item": "Soothe Bell",
+            "Locations": "Route 203, Pokémon Mansion"
+        },
+        {
+            "Item": "Soul Dew",
+            "Locations": "Oreburgh City"
+        },
+        {
+            "Item": "Spell Tag",
+            "Locations": "Old Chateau, Route 217"
+        },
+        {
+            "Item": "Stick",
+            "Locations": "Floaroma Town"
+        },
+        {
+            "Item": "Sticky Barb",
+            "Locations": "Veilstone Dept. Store"
+        },
+        {
+            "Item": "Sun Stone",
+            "Locations": "Oreburgh Mine, Eterna City, Valor Lakefront (Hidden), Mt. Coronet (Hidden), Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Thick Club",
+            "Locations": "Floaroma Town"
+        },
+        {
+            "Item": "Thunder Stone",
+            "Locations": "Oreburgh Mine, Route 206, Solaceon Ruins (Hidden), Sunyshore City, Route 229 (Hidden), Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Toxic Orb",
+            "Locations": "Galactic HQ, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Twisted Spoon",
+            "Locations": "Route 209"
+        },
+        {
+            "Item": "Up-Grade",
+            "Locations": "Hearthome City, Snowpoint City (Buyable)"
+        },
+        {
+            "Item": "Water Stone",
+            "Locations": "Oreburgh Mine, Route 205, Solaceon Ruins (Hidden), Route 213, Route 230 (Hidden), Veilstone Dept. Store (Buyable)"
+        },
+        {
+            "Item": "Wave Incense",
+            "Locations": "Route 210 (North)"
+        },
+        {
+            "Item": "White Flute",
+            "Locations": "Valor Lakefront"
+        },
+        {
+            "Item": "White Herb",
+            "Locations": "Floaroma Meadow, Veilstone Game Corner Prize (Buyable)"
+        },
+        {
+            "Item": "Wide Lens",
+            "Locations": "Veilstone Game Corner Prize"
+        },
+        {
+            "Item": "Wise Glasses",
+            "Locations": "Eterna Galactic Building, Veilstone Game Corner Prize (Buyable), Celestic Town"
+        },
+        {
+            "Item": "Yellow Flute",
+            "Locations": "Route 210 (North)"
+        },
+        {
+            "Item": "Yellow Scarf",
+            "Locations": "Pastoria City"
+        },
+        {
+            "Item": "Zoom Lens",
+            "Locations": "Veilstone Game Corner Prize (Buyable)"
+        }
+    ],
+    "TM Locations": {
+        "Explanation": "A * means the location has changed from the original Platinum.\n",
+        "TMs": [
+            {
+                "TM": "TM01 Focus Punch",
+                "Location": "Oreburgh Gate",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM02 Dragon Claw",
+                "Location": "Mt. Coronet",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM03 Water Pulse",
+                "Location": "Route 218",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM04 Calm Mind",
+                "Location": "Solaceon Ruins",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM05 Roar",
+                "Location": "Route 213",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM06 Toxic",
+                "Location": "Route 212 (South)",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM07 Hail",
+                "Location": "Route 217",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM08 Bulk Up",
+                "Location": "Route 205 (South)",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM09 Bullet Seed",
+                "Location": "Route 204 (North)",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM10 Hidden Power",
+                "Location": "Jubilife City",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM11 Sunny Day",
+                "Location": "Route 212 (North)",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM12 Taunt",
+                "Location": "Route 211 (West)",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM13 Ice Beam",
+                "Location": "Route 216",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM14 Blizzard",
+                "Location": "Lake Acuity",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM15 Hyper Beam",
+                "Location": "Sunyshore City",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM16 Light Screen",
+                "Location": "Eterna Galactic Building",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM17 Protect",
+                "Location": "Great Marsh",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM18 Rain Dance",
+                "Location": "Route 223",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM19 Giga Drain",
+                "Location": "Route 209",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM20 Safeguard",
+                "Location": "Route 212 (North)",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM21 Frustration",
+                "Location": "Galactic HQ",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM22 Solar Beam",
+                "Location": "Route 210",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM23 Iron Tail",
+                "Location": "Iron Island",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM24 Thunderbolt",
+                "Location": "Valley Windworks",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM25 Thunder",
+                "Location": "Lake Valor",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM26 Earthquake",
+                "Location": "Veilstone City Dept. Store",
+                "Obtained": "Gift from Bertha",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM27 Return",
+                "Location": "Eterna Forest",
+                "Obtained": "Gift from Cheryl",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM28 Dig",
+                "Location": "Eterna City",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM29 Psychic",
+                "Location": "Solaceon Town",
+                "Obtained": "Gift from Lucian",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM30 Shadow Ball",
+                "Location": "Hearthome City",
+                "Obtained": "Gift from Fantina",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM31 Brick Break",
+                "Location": "Oreburgh Gate",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM32 Double Team",
+                "Location": "Wayward Cave",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM33 Reflect",
+                "Location": "Eterna Galactic Building",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM34 Shock Wave",
+                "Location": "Valley Windworks",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM35 Flamethrower",
+                "Location": "Fuego Ironworks",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM36 Sludge Bomb",
+                "Location": "Great Marsh",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM37 Sandstorm",
+                "Location": "Route 228",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM38 Fire Blast",
+                "Location": "Lake Verity",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM39 Rock Tomb",
+                "Location": "Ravaged Path",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM40 Aerial Ace",
+                "Location": "Floaroma Town",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM41 Torment",
+                "Location": "Route 213",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM42 Facade",
+                "Location": "Jubilife City",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM43 Secret Power",
+                "Location": "Amity Square",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM44 Rest",
+                "Location": "Hearthome City",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM45 Attract",
+                "Location": "Amity Square",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM46 Thief",
+                "Location": "Eterna City",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM47 Steel Wing",
+                "Location": "Route 209",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM48 Skill Swap",
+                "Location": "Canalave City",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "TM49 Snatch",
+                "Location": "Galactic Warehouse",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM50 Overheat",
+                "Location": "Sunyshore City",
+                "Obtained": "Gift from Flint",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM51 Roost",
+                "Location": "Route 210 (South)",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "TM52 Focus Blast",
+                "Location": "Route 217",
+                "Obtained": "Gift from Maylene",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM53 Energy Ball",
+                "Location": "Valor Lakefront",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM54 False Swipe",
+                "Location": "Eterna City",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM55 Scald",
+                "Location": "Hearthome City",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM56 Fling",
+                "Location": "Route 222",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM57 Wild Charge",
+                "Location": "Sunyshore Gym",
+                "Obtained": "Gift from Volkner",
+                "Changed": ""
+            },
+            {
+                "TM": "TM58 Endure",
+                "Location": "Route 203",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM59 Dragon Pulse",
+                "Location": "Maniac Tunnel",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM60 Drain Punch",
+                "Location": "Veilstone Gym",
+                "Obtained": "Gift from Maylene",
+                "Changed": ""
+            },
+            {
+                "TM": "TM61 Will-O-Wisp",
+                "Location": "Lost Tower",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM62 Bug Buzz",
+                "Location": "Route 212 (South)",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM63 Embargo",
+                "Location": "Veilstone City",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "TM64 Explosion",
+                "Location": "Game Corner",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "TM65 Shadow Claw",
+                "Location": "Old Chateau",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM66 Payback",
+                "Location": "Route 215",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM67 Recycle",
+                "Location": "Eterna City",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "TM68 Giga Impact",
+                "Location": "Victory Road",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM69 Rock Polish",
+                "Location": "Mt. Coronet",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM70 Flash",
+                "Location": "Oreburgh Gate",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM71 Stone Edge",
+                "Location": "Ravaged Path",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM72 Avalanche",
+                "Location": "Snowpoint City",
+                "Obtained": "Gift from Candice",
+                "Changed": ""
+            },
+            {
+                "TM": "TM73 Thunder Wave",
+                "Location": "Eterna Galactic Bldg",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM74 Gyro Ball",
+                "Location": "Route 206",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM75 Swords Dance",
+                "Location": "Route 208",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM76 Stealth Rock",
+                "Location": "Oreburgh Gym",
+                "Obtained": "Gift from Roark",
+                "Changed": ""
+            },
+            {
+                "TM": "TM77 Psych Up",
+                "Location": "Route 211",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "TM78 Captivate",
+                "Location": "Eterna Forest Outside",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "TM79 Dark Pulse",
+                "Location": "Veilstone City",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM80 Rock Slide",
+                "Location": "Eterna City",
+                "Obtained": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM81 X-Scissor",
+                "Location": "Route 208",
+                "Obtained": "Gift from Aaron",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM82 Sleep Talk",
+                "Location": "Eterna Forest Outside",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM83 Hyper Voice",
+                "Location": "Route 215",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM84 Poison Jab",
+                "Location": "Route 212 (South)",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM85 Dazzling Gleam",
+                "Location": "Wayward Cave",
+                "Obtained": "Gift from Mira",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM86 Grass Knot",
+                "Location": "Eterna Gym",
+                "Obtained": "Gift from Gardenia",
+                "Changed": ""
+            },
+            {
+                "TM": "TM87 Swagger",
+                "Location": "Pokémon Mansion",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "TM88 Hurricane",
+                "Location": "Route 210 (North)",
+                "Obtained": "Item on ground",
+                "Changed": "*"
+            },
+            {
+                "TM": "TM89 U-turn",
+                "Location": "Canalave City",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM90 Substitute",
+                "Location": "Old Chateau",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "TM91 Flash Cannon",
+                "Location": "Canalave Gym",
+                "Obtained": "Gift from Byron",
+                "Changed": ""
+            },
+            {
+                "TM": "TM92 Trick Room",
+                "Location": "Route 213",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "HM01 Cut",
+                "Location": "Eterna City",
+                "Obtained": "Gift from Cynthia",
+                "Changed": ""
+            },
+            {
+                "TM": "HM02 Fly",
+                "Location": "Galactic Warehouse",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "HM03 Surf",
+                "Location": "Celestic Town",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "HM04 Strength",
+                "Location": "Iron Island",
+                "Obtained": "Gift from Riley",
+                "Changed": ""
+            },
+            {
+                "TM": "HM05 Defog",
+                "Location": "Solaceon Ruins",
+                "Obtained": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "TM": "HM06 Rock Smash",
+                "Location": "Oreburgh Gate",
+                "Obtained": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "TM": "HM07 Waterfall",
+                "Location": "Pastoria Gym",
+                "Obtained": "Gift from Wake",
+                "Changed": "*"
+            },
+            {
+                "TM": "HM08 Rock Climb",
+                "Location": "Snowpoint City",
+                "Obtained": "Gift from Candice",
+                "Changed": "*"
+            }
+        ]
+    },
+    "Plate Locations": [
+        {
+            "TM": "TM01 Focus Punch",
+            "Location": "Oreburgh Gate",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM02 Dragon Claw",
+            "Location": "Mt. Coronet",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM03 Water Pulse",
+            "Location": "Route 218",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM04 Calm Mind",
+            "Location": "Solaceon Ruins",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM05 Roar",
+            "Location": "Route 213",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM06 Toxic",
+            "Location": "Route 212 (South)",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM07 Hail",
+            "Location": "Route 217",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM08 Bulk Up",
+            "Location": "Route 205 (South)",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM09 Bullet Seed",
+            "Location": "Route 204 (North)",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM10 Hidden Power",
+            "Location": "Jubilife City",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM11 Sunny Day",
+            "Location": "Route 212 (North)",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM12 Taunt",
+            "Location": "Route 211 (West)",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM13 Ice Beam",
+            "Location": "Route 216",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM14 Blizzard",
+            "Location": "Lake Acuity",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM15 Hyper Beam",
+            "Location": "Sunyshore City",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM16 Light Screen",
+            "Location": "Eterna Galactic Building",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM17 Protect",
+            "Location": "Great Marsh",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM18 Rain Dance",
+            "Location": "Route 223",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM19 Giga Drain",
+            "Location": "Route 209",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM20 Safeguard",
+            "Location": "Route 212 (North)",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM21 Frustration",
+            "Location": "Galactic HQ",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM22 Solar Beam",
+            "Location": "Route 210",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM23 Iron Tail",
+            "Location": "Iron Island",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM24 Thunderbolt",
+            "Location": "Valley Windworks",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM25 Thunder",
+            "Location": "Lake Valor",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM26 Earthquake",
+            "Location": "Veilstone City Dept. Store",
+            "Obtained": "Gift from Bertha",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM27 Return",
+            "Location": "Eterna Forest",
+            "Obtained": "Gift from Cheryl",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM28 Dig",
+            "Location": "Eterna City",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM29 Psychic",
+            "Location": "Solaceon Town",
+            "Obtained": "Gift from Lucian",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM30 Shadow Ball",
+            "Location": "Hearthome City",
+            "Obtained": "Gift from Fantina",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM31 Brick Break",
+            "Location": "Oreburgh Gate",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM32 Double Team",
+            "Location": "Wayward Cave",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM33 Reflect",
+            "Location": "Eterna Galactic Building",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM34 Shock Wave",
+            "Location": "Valley Windworks",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM35 Flamethrower",
+            "Location": "Fuego Ironworks",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM36 Sludge Bomb",
+            "Location": "Great Marsh",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM37 Sandstorm",
+            "Location": "Route 228",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM38 Fire Blast",
+            "Location": "Lake Verity",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM39 Rock Tomb",
+            "Location": "Ravaged Path",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM40 Aerial Ace",
+            "Location": "Floaroma Town",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM41 Torment",
+            "Location": "Route 213",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM42 Facade",
+            "Location": "Jubilife City",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM43 Secret Power",
+            "Location": "Amity Square",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM44 Rest",
+            "Location": "Hearthome City",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM45 Attract",
+            "Location": "Amity Square",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM46 Thief",
+            "Location": "Eterna City",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM47 Steel Wing",
+            "Location": "Route 209",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM48 Skill Swap",
+            "Location": "Canalave City",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "TM49 Snatch",
+            "Location": "Galactic Warehouse",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM50 Overheat",
+            "Location": "Sunyshore City",
+            "Obtained": "Gift from Flint",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM51 Roost",
+            "Location": "Route 210 (South)",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "TM52 Focus Blast",
+            "Location": "Route 217",
+            "Obtained": "Gift from Maylene",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM53 Energy Ball",
+            "Location": "Valor Lakefront",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM54 False Swipe",
+            "Location": "Eterna City",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM55 Scald",
+            "Location": "Hearthome City",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM56 Fling",
+            "Location": "Route 222",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM57 Wild Charge",
+            "Location": "Sunyshore Gym",
+            "Obtained": "Gift from Volkner",
+            "Changed": ""
+        },
+        {
+            "TM": "TM58 Endure",
+            "Location": "Route 203",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM59 Dragon Pulse",
+            "Location": "Maniac Tunnel",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM60 Drain Punch",
+            "Location": "Veilstone Gym",
+            "Obtained": "Gift from Maylene",
+            "Changed": ""
+        },
+        {
+            "TM": "TM61 Will-O-Wisp",
+            "Location": "Lost Tower",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM62 Bug Buzz",
+            "Location": "Route 212 (South)",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM63 Embargo",
+            "Location": "Veilstone City",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "TM64 Explosion",
+            "Location": "Game Corner",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "TM65 Shadow Claw",
+            "Location": "Old Chateau",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM66 Payback",
+            "Location": "Route 215",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM67 Recycle",
+            "Location": "Eterna City",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "TM68 Giga Impact",
+            "Location": "Victory Road",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM69 Rock Polish",
+            "Location": "Mt. Coronet",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM70 Flash",
+            "Location": "Oreburgh Gate",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM71 Stone Edge",
+            "Location": "Ravaged Path",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM72 Avalanche",
+            "Location": "Snowpoint City",
+            "Obtained": "Gift from Candice",
+            "Changed": ""
+        },
+        {
+            "TM": "TM73 Thunder Wave",
+            "Location": "Eterna Galactic Bldg",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM74 Gyro Ball",
+            "Location": "Route 206",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM75 Swords Dance",
+            "Location": "Route 208",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM76 Stealth Rock",
+            "Location": "Oreburgh Gym",
+            "Obtained": "Gift from Roark",
+            "Changed": ""
+        },
+        {
+            "TM": "TM77 Psych Up",
+            "Location": "Route 211",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "TM78 Captivate",
+            "Location": "Eterna Forest Outside",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "TM79 Dark Pulse",
+            "Location": "Veilstone City",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM80 Rock Slide",
+            "Location": "Eterna City",
+            "Obtained": "Gift from NPC",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM81 X-Scissor",
+            "Location": "Route 208",
+            "Obtained": "Gift from Aaron",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM82 Sleep Talk",
+            "Location": "Eterna Forest Outside",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM83 Hyper Voice",
+            "Location": "Route 215",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM84 Poison Jab",
+            "Location": "Route 212 (South)",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM85 Dazzling Gleam",
+            "Location": "Wayward Cave",
+            "Obtained": "Gift from Mira",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM86 Grass Knot",
+            "Location": "Eterna Gym",
+            "Obtained": "Gift from Gardenia",
+            "Changed": ""
+        },
+        {
+            "TM": "TM87 Swagger",
+            "Location": "Pokémon Mansion",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "TM88 Hurricane",
+            "Location": "Route 210 (North)",
+            "Obtained": "Item on ground",
+            "Changed": "*"
+        },
+        {
+            "TM": "TM89 U-turn",
+            "Location": "Canalave City",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM90 Substitute",
+            "Location": "Old Chateau",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "TM91 Flash Cannon",
+            "Location": "Canalave Gym",
+            "Obtained": "Gift from Byron",
+            "Changed": ""
+        },
+        {
+            "TM": "TM92 Trick Room",
+            "Location": "Route 213",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "HM01 Cut",
+            "Location": "Eterna City",
+            "Obtained": "Gift from Cynthia",
+            "Changed": ""
+        },
+        {
+            "TM": "HM02 Fly",
+            "Location": "Galactic Warehouse",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "HM03 Surf",
+            "Location": "Celestic Town",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "HM04 Strength",
+            "Location": "Iron Island",
+            "Obtained": "Gift from Riley",
+            "Changed": ""
+        },
+        {
+            "TM": "HM05 Defog",
+            "Location": "Solaceon Ruins",
+            "Obtained": "Item on ground",
+            "Changed": ""
+        },
+        {
+            "TM": "HM06 Rock Smash",
+            "Location": "Oreburgh Gate",
+            "Obtained": "Gift from NPC",
+            "Changed": ""
+        },
+        {
+            "TM": "HM07 Waterfall",
+            "Location": "Pastoria Gym",
+            "Obtained": "Gift from Wake",
+            "Changed": "*"
+        },
+        {
+            "TM": "HM08 Rock Climb",
+            "Location": "Snowpoint City",
+            "Obtained": "Gift from Candice",
+            "Changed": "*"
+        }
+    ],
+    "Key Items": {
+        "Explanation": "A * means the location has changed from the original Platinum.\nA ** means the key item is new to Renegade Platinum.",
+        "Items": [
+            {
+                "Item": "Azure Flute",
+                "Location": "Hearthome City - Foreign Building",
+                "Method": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "Item": "Vs. Recorder",
+                "Location": "Jubilife City",
+                "Method": "Gift from Looker",
+                "Changed": ""
+            },
+            {
+                "Item": "Bicycle",
+                "Location": "Twinleaf Town",
+                "Method": "Gift from Mom",
+                "Changed": "*"
+            },
+            {
+                "Item": "Blue Orb",
+                "Location": "Oreburgh City",
+                "Method": "Gift from Steven",
+                "Changed": "**"
+            },
+            {
+                "Item": "Coin Case",
+                "Location": "Veilstone City",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "Fashion Case",
+                "Location": "Jubilife City",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "Galactic Key",
+                "Location": "Galactic HQ",
+                "Method": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "Item": "Gracidea Flower",
+                "Location": "Floaroma Town",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "Good Rod",
+                "Location": "Route 209",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "GS Ball",
+                "Location": "Celestic Town",
+                "Method": "Gift from event",
+                "Changed": "**"
+            },
+            {
+                "Item": "Jade Orb",
+                "Location": "Oreburgh City",
+                "Method": "Gift from Steven",
+                "Changed": "**"
+            },
+            {
+                "Item": "Journal",
+                "Location": "Twinleaf Town",
+                "Method": "Gift from Mom",
+                "Changed": ""
+            },
+            {
+                "Item": "Lunar Wing",
+                "Location": "Fullmoon Island",
+                "Method": "Gift from event",
+                "Changed": ""
+            },
+            {
+                "Item": "Member Card",
+                "Location": "Route 217",
+                "Method": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "Item": "Mysterious Invitation",
+                "Location": "Survival Area - Battleground",
+                "Method": "Gift from NPC",
+                "Changed": "**"
+            },
+            {
+                "Item": "Oak's Letter",
+                "Location": "Eterna City",
+                "Method": "Gift from Oak",
+                "Changed": "*"
+            },
+            {
+                "Item": "Old Charm",
+                "Location": "Route 210",
+                "Method": "Gift from Cynthia",
+                "Changed": ""
+            },
+            {
+                "Item": "Old Rod",
+                "Location": "Route 218",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "Pal Pad",
+                "Location": "Pokémon Center Basement",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "Parcel",
+                "Location": "Twinleaf Town",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "Poffin Case",
+                "Location": "Hearthome City",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "Poké Radar",
+                "Location": "Sandgem Town",
+                "Method": "Gift from Rowan",
+                "Changed": "*"
+            },
+            {
+                "Item": "Rainbow Wing",
+                "Location": "Eterna City",
+                "Method": "Gift from Oak",
+                "Changed": "**"
+            },
+            {
+                "Item": "Red Orb",
+                "Location": "Oreburgh City",
+                "Method": "Gift from Steven",
+                "Changed": "**"
+            },
+            {
+                "Item": "Seal Case",
+                "Location": "Solaceon Town",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "Secret Key",
+                "Location": "Galactic Eterna Building",
+                "Method": "Item on ground",
+                "Changed": ""
+            },
+            {
+                "Item": "Secret Potion",
+                "Location": "Valor Lakefront",
+                "Method": "Gift from Cynthia",
+                "Changed": ""
+            },
+            {
+                "Item": "Silver Wing",
+                "Location": "Eterna City",
+                "Method": "Gift from Oak",
+                "Changed": "**"
+            },
+            {
+                "Item": "Sprayduck",
+                "Location": "Floaroma Town",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            },
+            {
+                "Item": "Suite Key",
+                "Location": "Route 213",
+                "Method": "Item on ground (hidden)",
+                "Changed": ""
+            },
+            {
+                "Item": "Super Rod",
+                "Location": "Snowpoint City",
+                "Method": "Gift from NPC",
+                "Changed": "*"
+            },
+            {
+                "Item": "Tea",
+                "Location": "Pal Park",
+                "Method": "Gift from Darach",
+                "Changed": "**"
+            },
+            {
+                "Item": "Town Map",
+                "Location": "Jubilife City",
+                "Method": "Gift from rival",
+                "Changed": ""
+            },
+            {
+                "Item": "VS Seeker",
+                "Location": "Route 207",
+                "Method": "Gift from Dawn/Lucas",
+                "Changed": ""
+            },
+            {
+                "Item": "Works Key",
+                "Location": "Floaroma Meadow",
+                "Method": "Gift from NPC",
+                "Changed": ""
+            }
+        ]
+    },
+    "Replaced Items": {
+        "Explanation": "The following items (some unobtainable) have been replaced with items from other games.\nItems under the \"Old Item\" column are now unavailable.",
+        "Items": [
+            {
+                "Old Item": "Contest Pass",
+                "New Item": "Ice Stone"
+            },
+            {
+                "Old Item": "Coupon 1",
+                "New Item": "Red Orb"
+            },
+            {
+                "Old Item": "Coupon 2",
+                "New Item": "Blue Orb"
+            },
+            {
+                "Old Item": "Coupon 3",
+                "New Item": "Jade Orb"
+            },
+            {
+                "Old Item": "Loot Sack",
+                "New Item": "Prism Scale"
+            },
+            {
+                "Old Item": "Point Card",
+                "New Item": "Silver Wing"
+            },
+            {
+                "Old Item": "Rule Book",
+                "New Item": "Rainbow Wing"
+            },
+            {
+                "Old Item": "S.S. Ticket",
+                "New Item": "Tea"
+            },
+            {
+                "Old Item": "Seal Bag",
+                "New Item": "GS Ball *"
+            },
+            {
+                "Old Item": "Storage Key",
+                "New Item": "Mysterious Invitation **"
+            }
+        ],
+        "Label": "* Thank you to Serebii.net for the item sprite.\n** A completely new item that is used in the Mewtwo event."
+    }
+}
